@@ -1,0 +1,7 @@
+<data>
+	<site name ='SITE_STRING_NAME'>
+		<building ID = 'Building 1'>
+    		<rbpi>IP.ADD.GOES.HERE</rbpi>
+    	</building>
+    </site>
+</data>

@@ -1,0 +1,21 @@
+<data>
+    <switch name="FQDN_of_device_here">
+        <port>GigabitEthernet 5/0/43</port>
+        <port>GigabitEthernet 2/0/16</port>
+        <port>GigabitEthernet 6/0/24</port>
+    </switch>
+    <switch name="FQDN_of_device_here">
+        <port>fa 1/0/6</port>
+        <port>fa 1/0/18</port>
+    </switch>
+    <switch name="FQDN_of_device_here">
+        <port>GigabitEthernet 6/0/34</port>
+        <port>GigabitEthernet 6/0/40</port>
+        <port>GigabitEthernet 6/0/46</port>
+        <port>GigabitEthernet 6/0/30</port>
+        <port>GigabitEthernet 6/0/42</port>
+    </switch>
+    <switch name="FQDN_of_device_here">
+        <port>GigabitEthernet 2/0/43</port>
+    </switch>
+</data>
